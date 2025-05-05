@@ -112,16 +112,20 @@ requests==2.32.3
 
 ---
 💡 Advantages of This Tool
-Feature	Description
-🌐Cloud-Based	No installation needed; just open link in any browser.
-📥File Upload Support	Analyze sentiment from local CSV files.
-📄Google Sheets Integration	Paste a shareable Google Sheet link for live analysis.
-🤖NLP-Powered Sentiment Analysis	Uses VADER for quick and accurate sentiment classification.
-📊Interactive Visualizations	Understand customer opinions visually with Plotly charts.
-📦Data Export	Save both raw and analyzed data as CSV for further use.
+🌐 Cloud-Based
+No installation needed; just open the link in any browser.
+📥 File Upload Support
+Analyze sentiment from local CSV files.
+📄 Google Sheets Integration
+Paste a shareable Google Sheet link for live analysis.
+🤖 NLP-Powered Sentiment Analysis
+Uses VADER for quick and accurate sentiment classification.
+📊 Interactive Visualizations
+Understand customer opinions visually with Plotly charts.
+📦 Data Export
+Save both raw and analyzed data as CSV for further use.
 
-
-
+---
 ## 🚨 Limitations
 
 - Amazon frequently updates its website structure – scraping may break if HTML changes.
