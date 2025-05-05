@@ -100,8 +100,11 @@ cd Amazon-Product-Review-Sentiment-Analysis-webscrap-extractor-
 ---
 
 ## 🌐 Live Demo
-```
+
 🔗 [View the deployed app on Streamlit Cloud][https://amazon-review-analyzer.streamlit.app/](https://amazon-review-extractor-and-sentiment-analyser.streamlit.app/)
+---
+```
+https://amazon-review-extractor-and-sentiment-analyser.streamlit.app/
 ```
 ---
 
