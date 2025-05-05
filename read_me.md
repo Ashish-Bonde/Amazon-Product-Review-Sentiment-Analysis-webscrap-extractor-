@@ -99,7 +99,7 @@ requests==2.32.3
 
 ## 🌐 Live Demo
 
-🔗 [View the deployed app on Streamlit Cloud]([https://amazon-review-analyzer.streamlit.app/](https://amazon-review-extractor-and-sentiment-analyser.streamlit.app/))
+🔗 [View the deployed app on Streamlit Cloud]([https://amazon-review-analyzer.streamlit.app/](https://amazon-review-extractor-and-sentiment-analyser.streamlit.app/)
 
 ---
 
@@ -111,6 +111,16 @@ requests==2.32.3
 - **Personal Use**: Help decide whether to buy a product based on aggregated sentiment.
 
 ---
+💡 Advantages of This Tool
+Feature	Description
+🌐Cloud-Based	No installation needed; just open link in any browser.
+📥File Upload Support	Analyze sentiment from local CSV files.
+📄Google Sheets Integration	Paste a shareable Google Sheet link for live analysis.
+🤖NLP-Powered Sentiment Analysis	Uses VADER for quick and accurate sentiment classification.
+📊Interactive Visualizations	Understand customer opinions visually with Plotly charts.
+📦Data Export	Save both raw and analyzed data as CSV for further use.
+
+
 
 ## 🚨 Limitations
 
