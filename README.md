@@ -89,7 +89,7 @@ cd Amazon-Product-Review-Sentiment-Analysis-webscrap-extractor-
 
 3. Run the app:
    ```bash
-   streamlit run app.py
+   streamlit run FCode.py
    ```
 
 4. Open your browser and go to:
@@ -101,7 +101,8 @@ cd Amazon-Product-Review-Sentiment-Analysis-webscrap-extractor-
 
 ## 🌐 Live Demo
 
-🔗 [View the deployed app on Streamlit Cloud][https://amazon-review-analyzer.streamlit.app/](https://amazon-review-extractor-and-sentiment-analyser.streamlit.app/)
+🔗 [View the deployed app on Streamlit Cloud](https://amazon-review-extractor-and-sentiment-analyser.streamlit.app/)
+
 ---
 ```
 https://amazon-review-extractor-and-sentiment-analyser.streamlit.app/
