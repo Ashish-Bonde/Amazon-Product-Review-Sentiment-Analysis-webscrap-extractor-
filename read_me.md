@@ -76,8 +76,8 @@ requests==2.32.3
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ashu-TheCoder/Amazon_Review_Analyzer.git
-   cd Amazon_Review_Analyzer
+  git clone https://github.com/Ashish-Bonde/Amazon-Product-Review-Sentiment-Analysis-webscrap-extractor-.git
+  cd Amazon-Product-Review-Sentiment-Analysis-webscrap-extractor-
    ```
 
 2. Install dependencies:
