@@ -74,11 +74,12 @@ requests==2.32.3
 
 ## ▶️ How to Run Locally
 
-1. Clone the repository:
-   ```bash
-  git clone https://github.com/Ashish-Bonde/Amazon-Product-Review-Sentiment-Analysis-webscrap-extractor-.git
-  cd Amazon-Product-Review-Sentiment-Analysis-webscrap-extractor-
-   ```
+# Clone the repository
+git clone https://github.com/Ashish-Bonde/Amazon-Product-Review-Sentiment-Analysis-webscrap-extractor-.git
+
+# Navigate into the project directory
+cd Amazon-Product-Review-Sentiment-Analysis-webscrap-extractor-
+
 
 2. Install dependencies:
    ```bash
@@ -111,19 +112,17 @@ requests==2.32.3
 - **Personal Use**: Help decide whether to buy a product based on aggregated sentiment.
 
 ---
-💡 Advantages of This Tool
-🌐 Cloud-Based
-No installation needed; just open the link in any browser.
-📥 File Upload Support
-Analyze sentiment from local CSV files.
-📄 Google Sheets Integration
-Paste a shareable Google Sheet link for live analysis.
-🤖 NLP-Powered Sentiment Analysis
-Uses VADER for quick and accurate sentiment classification.
-📊 Interactive Visualizations
-Understand customer opinions visually with Plotly charts.
-📦 Data Export
-Save both raw and analyzed data as CSV for further use.
+# 💡 Advantages of This Tool
+
+| Feature | Description |
+|---------|-------------|
+| 🌐 **Cloud-Based** | No installation needed; just open link in any browser. |
+| 📥 **File Upload Support** | Analyze sentiment from local CSV files. |
+| 📄 **Google Sheets Integration** | Paste a shareable Google Sheet link for live analysis. |
+| 🤖 **NLP-Powered Sentiment Analysis** | Uses VADER for quick and accurate sentiment classification. |
+| 📊 **Interactive Visualizations** | Understand customer opinions visually with Plotly charts. |
+| 📦 **Data Export** | Save both raw and analyzed data as CSV for further use. |
+
 
 ---
 ## 🚨 Limitations
